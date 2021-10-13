@@ -5,8 +5,8 @@ module.exports = {
         clientSecret: 'Z166F3LWXudNAdTGmtXY3dBd'
     },
     facebook: {
-        clientID: '357177895809731',
-        clientSecret: 'a38359a0cfbb243de637ad56d23e64e6'
+        clientID: '981800162638146',
+        clientSecret: '4a6917d1e2030933ff1f206366ecfc29'
     },
     CLOUD_API_KEY : '962778254894529',
     CLOUD_API_SECRET : 'N77qnL9NFxc6_OMA2KD4CfJsb9M',
